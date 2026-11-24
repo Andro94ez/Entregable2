@@ -1,2 +1,2 @@
 # Entregable2
-reconstrucción pagina Disney 1996
+reconstrucción pagina Monopoly 1996
